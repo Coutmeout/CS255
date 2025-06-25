@@ -2,10 +2,10 @@
 Business Requirements Document (Project One) & System Design Document (Project Two) for DriverPass
 ----------------------------------------------------------------------------------------------------------------
 1. Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+   
 The client for this project is DriverPass, a start-up that aims to help new drivers pass their driving exam and earn their license. The client requested a digital foundation for a training platform that includes lesson scheduling, practice tests, and payment      processing. 
 
-
-2. What did you do particularly well?
+3. What did you do particularly well?
    
 I believe I did well keeping the design rigorous and readable. My diagrams are neat and easy to understand. Security was considered and implemented in every tier. The information flows well and is easy for those with less engineering expertise to follow. 
 
